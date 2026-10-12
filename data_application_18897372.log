@@ -1,0 +1,22 @@
+/home/bcanourrego/work/paper2
+r14r12n01
+Wed Feb 25 17:10:33 CST 2026
+Running R script
+
+Attaching package: ‘dbscan’
+
+The following object is masked from ‘package:stats’:
+
+    as.dendrogram
+
+
+Attaching package: ‘gmp’
+
+The following objects are masked from ‘package:base’:
+
+    %*%, apply, crossprod, matrix, tcrossprod
+
+Loading required package: ggplot2
+Loading required package: lattice
+[1] 1
+Wed Feb 25 17:42:30 CST 2026

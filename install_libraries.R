@@ -1,0 +1,7 @@
+install.packages("MASS",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
+install.packages("dbscan",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
+install.packages("zipfR",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
+install.packages("gmp",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
+install.packages("profmem",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
+install.packages("mvtnorm",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
+install.packages("pryr",lib = "/home/bcanourrego/work/paper2/Rpackages", repos = "http://cran.us.r-project.org")
